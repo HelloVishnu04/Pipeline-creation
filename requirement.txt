@@ -6,3 +6,4 @@ nltk
 stopwords
 seaborn
 scikit-learn
+xgboost
